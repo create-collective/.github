@@ -12,7 +12,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/create-collective/create-companion/releases/latest"><b>Download Create Companion</b></a>
   &nbsp;·&nbsp;
-  <a href="https://discord.gg/zEg7pwMrm">Discord</a>
+  <a href="https://discord.gg/jNtmvdD3Ae">Discord</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/create-collective/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
@@ -74,7 +74,7 @@ You don't need to write code to help. If your board runs a different firmware ve
 another operating system, or you have a spare module, you can settle an open question with a
 read-only check.
 
-- **Want to talk it through first?** Join the other owners on [Discord](https://discord.gg/zEg7pwMrm).
+- **Want to talk it through first?** Join the other owners on [Discord](https://discord.gg/jNtmvdD3Ae).
 - **Found a bug or want a feature?** Open an issue in that project's repository.
 - **Have a correction for the knowledge base?** Open an issue or pull request with both halves'
   firmware versions, your module firmware, your OS and the date.

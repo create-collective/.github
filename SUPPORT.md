@@ -1,6 +1,6 @@
 # Getting help
 
-- **Want to ask other owners?** Join us on [Discord](https://discord.gg/zEg7pwMrm).
+- **Want to ask other owners?** Join us on [Discord](https://discord.gg/jNtmvdD3Ae).
 - **Using Create Companion?** Start with its
   [install guide](https://github.com/create-collective/create-companion/blob/main/INSTALL.md) and
   README. Ask questions in its
