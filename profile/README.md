@@ -15,6 +15,8 @@
   <a href="https://discord.gg/jNtmvdD3Ae">Discord</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/create-collective/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+  &nbsp;·&nbsp;
+  <a href="https://buymeacoffee.com/traviswye">Buy me a coffee</a>
 </p>
 
 Naya B.V. ceased operations in August 2026 and no longer supports the **Naya Create**. The
