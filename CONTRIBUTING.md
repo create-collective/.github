@@ -9,7 +9,7 @@ build steps or checks, those apply too.
 - **Report a bug.** Open an issue in the project's repository. Say which version of the project
   you run, your OS and its version, both halves' firmware versions and your module firmware, what
   you did, what you expected and what happened. Attach the log if the project writes one; each
-  README says where it lives.
+  README says where it lives. In OpenFlow, **More → Bug Report** in the top bar does this for you.
 - **Settle an open question.** The knowledge base lists what we don't know yet and what would
   settle it. Many need only a board on a firmware version we haven't seen, or another OS, and a
   read-only check.

@@ -77,7 +77,10 @@ another operating system, or you have a spare module, you can settle an open que
 read-only check.
 
 - **Want to talk it through first?** Join the other owners on [Discord](https://discord.gg/jNtmvdD3Ae).
-- **Found a bug or want a feature?** Open an issue in that project's repository.
+- **Found a bug in OpenFlow?** Report it from the app: **More → Bug Report** in the top bar. It
+  sends your description with the app version, your OS, the keyboard it last saw and the recent
+  device log, plus any screenshots you attach, and shows you exactly what goes before you send it.
+- **Found a bug in something else, or want a feature?** Open an issue in that project's repository.
 - **Have a correction for the knowledge base?** Open an issue or pull request with both halves'
   firmware versions, your module firmware, your OS and the date.
 - **Want your favorite app in Create Companion?** Add it to the catalog: one JSON file per app,

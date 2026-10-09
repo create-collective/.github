@@ -1,6 +1,8 @@
 # Getting help
 
 - **Want to ask other owners?** Join us on [Discord](https://discord.gg/jNtmvdD3Ae).
+- **Problem with OpenFlow?** Report it from the app: **More → Bug Report** in the top bar sends
+  the version, OS and recent device log along with your description.
 - **Using Create Companion?** Start with its
   [install guide](https://github.com/create-collective/create-companion/blob/main/INSTALL.md) and
   README. Ask questions in its
